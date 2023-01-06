@@ -39,7 +39,6 @@ import java.net.URL;
  * GetReportCardInitialData - Listing Report Cards
  * GetStudentDocumentInitialData - Listing Documents
  * StudentHealthInfo - Getting Health Info
- * 
  */
 
 public class StudentVUE {
